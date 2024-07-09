@@ -22,4 +22,4 @@
 - UI 시스템 등
 
 # 프로젝트 기술서
-https://drive.google.com/file/d/1eSxhn9dHwjgRgXKX92juQcoIcl3jjRP0/view?usp=drive_link
+https://drive.google.com/file/d/1aq7oP7vc485U3IdjGj4efFnYR9Up44Ht/view?usp=drive_link
